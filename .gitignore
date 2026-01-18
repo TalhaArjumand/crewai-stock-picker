@@ -1,3 +1,11 @@
 .env
 __pycache__/
 .DS_Store
+
+
+# CrewAI runtime artifacts
+memory/
+output/
+*.db
+*.sqlite3
+*.bin
