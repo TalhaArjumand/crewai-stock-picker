@@ -6,6 +6,8 @@ Instead of relying on a single prompt, the system decomposes the problem into **
 
 ## Architecture
 
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/85185478-7e0e-432e-acc6-d7b592a1625c" />
+
 - **Manager Agent** – plans, delegates, and evaluates
 - **Trending Company Finder Agent** – scans live news
 - **Financial Research Agent** – analyzes fundamentals and risks
